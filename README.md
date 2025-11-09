@@ -11,4 +11,5 @@ After cleaning and pairing open/close events, results showed that automatically 
 
 ## Files
 `Toolwindow_Usage_Analysis.ipynb` — main analysis code
+
 `toolwindow_events.csv` - data
